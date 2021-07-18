@@ -1,0 +1,5 @@
+numpy==1.19.3
+opencv-contrib-python==4.5.1.48
+opencv-python==4.4.0.46
+pip==20.3.3
+setuptools==51.1.1

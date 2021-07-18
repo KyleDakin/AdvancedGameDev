@@ -1,0 +1,2 @@
+The mobile app included is for android. I have not been able to test it out on Apple so can't guarantee it works on that platform. The apk is included if you want to try it though
+To calibrate the camera, you need 10 images, with the same naming convention, in the calib images file from your camera and then run the code and it will calibrate your camera for you
