@@ -1,5 +1,4 @@
 # Kyle Dakin
-# 1659221
 # NHE2422 Advanced Game Development
 # Innovative UI Development of a VR/AR Game
 
